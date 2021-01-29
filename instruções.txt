@@ -1,0 +1,15 @@
+Tecnologias utilizadas:
+
+BackEnd{
+	* Java com framework Spring Boot;
+	* Banco de dados PostgreSQL utilizando framework Hibernate;
+}
+
+FrontEnd{
+	* JavaScript com framework Vuejs, utilizando Vue Material;
+}
+
+Instruções{
+	* Executar a aplicação BackEnd;
+	* Entrar no diretório do FrontEnd e executá-lo atraves do comando "npm run serve";
+}
